@@ -21,6 +21,5 @@
     "url": "https://github.com/pownjs/pown-file/issues"
   },
   "homepage": "https://github.com/pownjs/pown-file#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
